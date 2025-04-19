@@ -1,0 +1,6 @@
+.vscode/*.json
+# remove any env
+.env
+.vscode/.env
+.vscode/.env.backup
+
